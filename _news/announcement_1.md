@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I attended [Brains, Minds, and Machines Summer School](https://bmm.mit.edu/2025-2/).
+I attended [Brains, Minds, and Machines Summer School](https://bmm.mit.edu/2025-2/) in Woods Hole, MA.
