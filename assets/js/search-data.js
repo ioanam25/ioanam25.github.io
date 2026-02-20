@@ -391,8 +391,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-attended-brains-minds-and-machines-summer-school-in-woods-hole-ma",
-          title: 'I attended Brains, Minds, and Machines Summer School in Woods Hole, MA.',
+            },},{id: "news-i-attended-the-brains-minds-and-machines-summer-school-in-woods-hole-ma",
+          title: 'I attended the Brains, Minds, and Machines Summer School in Woods Hole, MA....',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
