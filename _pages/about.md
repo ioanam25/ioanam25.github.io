@@ -35,4 +35,4 @@ I am a PhD student at the NYU Center for Data Science. My broad research interes
 - reasoning: disentangling abstract reasoning from task-specific content
 - priors: learning useful priors.
 
-Prior to NYU, I graduated summa cum laude from Princeton with a Bachelor’s degree in Computer Science. I previously worked on inductive bias distillation into neural networks, symbolic regression, and noun compound understanding. 
+Prior to NYU, I graduated summa cum laude from Princeton with a Bachelor's degree in Computer Science. I previously worked on inductive bias distillation into neural networks, symbolic regression, and noun compound understanding.
