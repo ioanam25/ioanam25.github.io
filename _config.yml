@@ -2,8 +2,7 @@ title: Ioana Marinescu # the website title (if blank, full name will be used ins
 first_name: Ioana
 middle_name:
 last_name: Marinescu
-contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+contact_note:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Personal website of Ioana Marinescu.
 footer_text: >
