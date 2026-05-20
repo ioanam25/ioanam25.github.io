@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-11'
+  last_updated: '2026-05-20'
 papers:
   BgQOnY4AAAAJ:2osOgNQ5qMEC:
     citations: 1
@@ -10,11 +10,11 @@ papers:
     title: 'AutoRA: Automated research assistant for closed-loop empirical research'
     year: '2024'
   BgQOnY4AAAAJ:IjCSPb-OGe4C:
-    citations: 12
+    citations: 13
     title: 'Gfn-sr: Symbolic regression with generative flow networks'
     year: '2023'
   BgQOnY4AAAAJ:UeHWp8X0CEIC:
-    citations: 6
+    citations: 7
     title: Expression sampler as a dynamic benchmark for symbolic regression
     year: '2023'
   BgQOnY4AAAAJ:d1gkVwhDpl0C:
