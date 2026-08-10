@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-03'
+  last_updated: '2026-08-10'
 papers:
   BgQOnY4AAAAJ:2osOgNQ5qMEC:
     citations: 1
@@ -30,7 +30,7 @@ papers:
     title: Bayesian machine scientist for model discovery in psychology
     year: '2023'
   BgQOnY4AAAAJ:u-x6o8ySG0sC:
-    citations: 7
+    citations: 8
     title: Distilling symbolic priors for concept learning into neural networks
     year: '2024'
   BgQOnY4AAAAJ:u5HHmVD_uO8C:
