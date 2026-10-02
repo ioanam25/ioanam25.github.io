@@ -13,6 +13,17 @@ nav_order: 6
     <li>
       <div class="row">
         <div class="col-sm-2 abbr">
+          <abbr class="badge rounded w-100">Fall</abbr>
+        </div>
+        <div class="col-sm-10">
+          <div class="title"><b>Teaching Assistant/Grader</b>, CSCI-GA 2565 Machine Learning</div>
+          <div class="author">Instructor: Prof. Kyunghyun Cho</div>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class="row">
+        <div class="col-sm-2 abbr">
           <abbr class="badge rounded w-100">Spring</abbr>
         </div>
         <div class="col-sm-10">
