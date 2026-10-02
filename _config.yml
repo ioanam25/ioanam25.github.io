@@ -364,6 +364,8 @@ imagemagick:
     - ".png"
     - ".tiff"
     - ".gif"
+    - ".heic"
+    - ".heif"
   output_formats:
     webp: "-auto-orient -quality 85"
 
